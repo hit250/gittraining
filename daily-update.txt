@@ -25,3 +25,9 @@ holiday
            -> Sidebar
            -> Main content page
 3.read blog on "Hoe browser work"
+
+1 feb :
+1. Complete the tutorial of scrum and agile framework.
+2. Watch CSS preprocessor - Sass on YouTube.
+3. Complete "Build Components in HTML, CSS & JS" tutorial on Scrimba.
+4. add SCSS in Quantum Login Page and Dashcoard page.
