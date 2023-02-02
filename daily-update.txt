@@ -1,0 +1,27 @@
+27 jan :
+1. Completed Tweet component
+2. Completed "CSS grid" course on scrimba
+3. Completed "CSS flexbox" course on scrimba
+4. Created 1 webpage from mentioned using html,css
+
+28 jan:
+holiday
+
+29 jan:
+holiday
+
+30 jan :
+
+ 1.Complete course "bootstrap 4" on scrimba.
+ 2.Develop responsive webpage using CSS grid.
+
+31 jan :
+
+1.Created Quantum Login page
+2. Created Quantum Dashboard page 
+           -> Header
+           -> footer
+           -> Navbar
+           -> Sidebar
+           -> Main content page
+3.read blog on "Hoe browser work"
