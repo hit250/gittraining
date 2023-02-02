@@ -31,3 +31,11 @@ holiday
 2. Watch CSS preprocessor - Sass on YouTube.
 3. Complete "Build Components in HTML, CSS & JS" tutorial on Scrimba.
 4. add SCSS in Quantum Login Page and Dashcoard page.
+
+2 feb :
+
+1. apply some changes on to quentum pages. .
+2. complete "web accessibility" course on Udacity.
+3. understand the git command and practice it.
+4. Course on Introduction to JavaScript from Scrimba.
+5. started Course on Introduction to ES6.
